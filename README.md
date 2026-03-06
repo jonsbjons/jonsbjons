@@ -7,7 +7,7 @@ We produce ebooks and develop interactive editions.
 
 Currently working on **English editions** of our books.
 
-**Award-winning writer and literary editor**. I collaborate with publishers, authors, and PR teams to develop successful interactive book projects.
+**Award-winning writer and literary editor**, I collaborate with publishers, authors, and PR teams to develop successful interactive book projects.
 
 *Training as a technical writer.*  
 
