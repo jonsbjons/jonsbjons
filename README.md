@@ -1,11 +1,18 @@
-Digital-native publisher working with EPUB across multiple platforms.
+# About Me
+
+**Digital-native publisher** working with **EPUB** across multiple platforms.
 
 **Adventure Press** is an e-publishing house focused on cross-generational and humorous storytelling, addressing gaps in the Russian-language market.  
 We produce ebooks and develop interactive editions.
 
-Currently working on English editions of our books.
+Currently working on **English editions** of our books.
 
-Award-winning writer and literary editor. I collaborate with publishers, authors, and PR teams to develop successful interactive book projects.
+**Award-winning writer and literary editor**. I collaborate with publishers, authors, and PR teams to develop successful interactive book projects, including:
 
-Training as a technical writer.  
+- Interactive book editions
+- Cross-generational storytelling
+- Collaboration with PR and publishing teams
+
+*Training as a technical writer.*  
+
 Completed the **AWS Cloud and Automation Bootcamp** at **Accenture Baltic**.
