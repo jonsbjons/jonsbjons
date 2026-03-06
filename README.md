@@ -7,11 +7,7 @@ We produce ebooks and develop interactive editions.
 
 Currently working on **English editions** of our books.
 
-**Award-winning writer and literary editor**. I collaborate with publishers, authors, and PR teams to develop successful interactive book projects, including:
-
-- Interactive book editions
-- Cross-generational storytelling
-- Collaboration with PR and publishing teams
+**Award-winning writer and literary editor**. I collaborate with publishers, authors, and PR teams to develop successful interactive book projects.
 
 *Training as a technical writer.*  
 
